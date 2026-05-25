@@ -1,3 +1,6 @@
+# 💫 About Me:
+🚀 DevOps Engineer with 3.8+ years of experience in AWS Cloud, Kubernetes (EKS), Terraform, Docker, Jenkins, and CI/CD Automation.<br><br>🔹 Skilled in building scalable cloud infrastructure and automating deployment workflows  <br>🔹 Experienced in Kubernetes-based production environments and Infrastructure as Code  <br>🔹 Passionate about Cloud-Native Technologies, Platform Engineering, and DevOps Automation  <br><br>⚡ Tech Stack:<br>AWS | Kubernetes | Docker | Terraform | Jenkins | GitHub Actions | Ansible | Linux | Bash<br><br>📌 Focused on:<br>- CI/CD Automation<br>- Cloud Infrastructure<br>- Kubernetes Deployments<br>- Infrastructure as Code<br>- Production Reliability<br><br>🌱 Currently improving skills in:<br>Helm • Advanced Kubernetes • GitOps • Platform Engineering<br><br>📫 Connect with me:<br>LinkedIn: [Your LinkedIn URL]
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/aniketwakekar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anonymizer.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/wakekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AniketWakekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniket241192@gmail.com) 
@@ -12,4 +15,8 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Wakekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aniket) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
